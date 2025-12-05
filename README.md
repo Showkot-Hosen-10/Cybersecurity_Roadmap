@@ -13,10 +13,10 @@ Learners who want a free and structured learning guide
 
 🧩 Roadmap Overview
 
-1.The roadmap is divided into five main stages:
-2.Cybersecurity Introduction
-3.Fundamentals (Networking, OS, Linux)
-4.Programming for Cybersecurity
-5.Hands-on Labs (TryHackMe)
-6.Choose Your Track → Defensive or Offensive
+The roadmap is divided into five main stages:
+1.Cybersecurity Introduction
+2.Fundamentals (Networking, OS, Linux)
+3.Programming for Cybersecurity
+4.Hands-on Labs (TryHackMe)
+5.Choose Your Track → Defensive or Offensive
 All links are free and clickable.
