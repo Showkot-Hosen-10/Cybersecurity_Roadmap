@@ -87,8 +87,11 @@ https://tryhackme.com/path/outline/cybersecurity101
 This roadmap ensures you gain:
 
 ✔ Fundamentals of Cybersecurity
+
 ✔ Practical Linux & Python Skills
+
 ✔ Real Hands-on Experience via TryHackMe
+
 ✔ A clear path to SOC Analyst or Ethical Hacker roles
 
 Feel free to ⭐ star this repository, share with juniors, and contribute!
