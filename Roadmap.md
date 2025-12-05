@@ -45,6 +45,7 @@ https://www.udemy.com/course/linux-shell-scripting-free/
 https://tryhackme.com/path/outline/presecurity
 
 🐍 4. Programming for Cybersecurity
+
 Python Essentials 1 (Cisco NetAcad)
 
 https://www.netacad.com/courses/python-essentials-1?courseLang=en-US
@@ -62,6 +63,7 @@ https://www.geeksforgeeks.org/python/python-for-cybersecurity/
 After fundamentals, choose either Defensive (Blue Team) or Offensive (Red Team).
 
 🔵 Defensive Path — SOC Analyst
+
 🛡️ Cisco: Junior Cybersecurity Analyst Career Path
 
 https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US
@@ -71,6 +73,7 @@ https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US
 https://tryhackme.com/path/outline/soclevel1
 
 🔴 Offensive Path — Ethical Hacker / Pen Tester
+
 💥 Cisco: Ethical Hacker (Free)
 
 https://www.netacad.com/courses/ethical-hacker?courseLang=en-US
