@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Roadmap for Beginners
 
-![6 Months Cybersecurity Roadmap](Roadmap.png)
+![6 Months Cybersecurity Roadmap](roadmap.png)
 
 
 **Figure: 6 Months Cybersecurity Roadmap**
