@@ -50,7 +50,7 @@ Python is a core skill for scripting, automation, and security analysis.
 ## 🕵️‍♂️ Time to Complete Cybersec 101
 -  **[TryHackMe – Cybersecurity 101](https://tryhackme.com/path/outline/cybersecurity101)**
 ---
--  
+
 ## 🧭 5. Choose Your Specialization
 
 After fundamentals, choose either **Defensive (Blue Team)** or **Offensive (Red Team)**.
