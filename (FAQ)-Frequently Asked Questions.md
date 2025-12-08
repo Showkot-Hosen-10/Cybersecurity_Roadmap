@@ -1,4 +1,4 @@
-# 📌 Cybersecurity FAQ (For Juniors – HSC 22 & 23 Batch)
+# 📌 Cybersecurity FAQ
 
 This FAQ is designed to help beginners stay **consistent, motivated, and clear** while learning cybersecurity fundamentals (Cisco courses) alongside university studies.
 
