@@ -2,6 +2,7 @@
 
 ![6 Months Cybersecurity Roadmap](Roadmap.png)
 
+
 **Figure: 6 Months Cybersecurity Roadmap**
 
 ### A Complete Free Guide to Become an Ethical Hacker or Junior Cybersecurity Analyst
