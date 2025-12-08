@@ -33,9 +33,9 @@ Linux is essential in cybersecurity. Master these early.
 - 🐚 **[Linux Bash Scripting (Beginner) – Linux Handbook](https://linuxhandbook.com/courses/bash-beginner/run-shell-script/)**
 - 🧪 **[Bash Scripting – W3Schools](https://www.w3schools.com/bash/)**
 - 📗 **[Linux Shell Scripting (Free) – Udemy](https://www.udemy.com/course/linux-shell-scripting-free/)**
-
-- 💻 **[TryHackMe – Pre-Security Path](https://tryhackme.com/path/outline/presecurity)**
-
+---
+## 💻 Time to Achieve some Certificates on Practical
+-  **[TryHackMe – Pre-Security Path](https://tryhackme.com/path/outline/presecurity)**
 ---
 
 ## 🐍 4. Programming for Cybersecurity
