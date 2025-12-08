@@ -47,7 +47,10 @@ Python is a core skill for scripting, automation, and security analysis.
 - 📖 **[Python for Cybersecurity – GeeksforGeeks](https://www.geeksforgeeks.org/python/python-for-cybersecurity/)**
 
 ---
-
+## 🕵️‍♂️ Time to Complete Cybersec 101
+-  **[TryHackMe – Cybersecurity 101](https://tryhackme.com/path/outline/cybersecurity101)**
+---
+-  
 ## 🧭 5. Choose Your Specialization
 
 After fundamentals, choose either **Defensive (Blue Team)** or **Offensive (Red Team)**.
@@ -64,7 +67,8 @@ After fundamentals, choose either **Defensive (Blue Team)** or **Offensive (Red 
 ### 🔴 Offensive Path — Ethical Hacker / Pen Tester
 
 - 💥 **[Ethical Hacker – Cisco NetAcad](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)**
-- 🕵️‍♂️ **[TryHackMe – Cybersecurity 101](https://tryhackme.com/path/outline/cybersecurity101)**
+💥 **[Ethical Hacker – Cisco NetAcad](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)**
+
 
 ---
 
