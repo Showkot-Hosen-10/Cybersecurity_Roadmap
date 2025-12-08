@@ -1,97 +1,80 @@
-🛡️ Cybersecurity Roadmap for Beginners
+# 🛡️ Cybersecurity Roadmap for Beginners
 
-A Complete Free Guide to Become an Ethical Hacker or Junior Cybersecurity Analyst
+### A Complete Free Guide to Become an Ethical Hacker or Junior Cybersecurity Analyst
 
-This roadmap provides a step-by-step learning path for students, beginners, and cybersecurity enthusiasts. All resources listed here are 100% free, high-quality, and suitable for anyone aiming to enter the world of Cyber Defence or Ethical Hacking.
+This roadmap provides a **step-by-step learning path** for students, beginners, and cybersecurity enthusiasts.  
+All resources listed here are **100% free**, high-quality, and suitable for anyone aiming to enter the world of **Cyber Defence or Ethical Hacking**.
 
-🎬 1. Cybersecurity Intro Videos
+---
+
+## 🎬 1. Cybersecurity Intro Videos
 
 Start here to build awareness and understand the field.
 
-▶️ Basics of Cybersecurity
-https://youtu.be/ey4dXseAODE?si=oj-HkdDfLBllJ4JJ
+- ▶️ **[Basics of Cybersecurity](https://youtu.be/ey4dXseAODE?si=oj-HkdDfLBllJ4JJ)**
+- ▶️ **[How To Make Cybersecurity Your ADDICTION](https://youtu.be/Gg1laGusABg?si=3CnICa_S5H-GjZQO)**
 
-▶️ How To Make Cybersecurity Your ADDICTION
-https://youtu.be/Gg1laGusABg?si=3CnICa_S5H-GjZQO
+---
 
-📘 2. Foundational Courses (Must Complete)
-🔰 Introduction to Cybersecurity (Cisco NetAcad)
+## 📘 2. Foundational Courses (Must Complete) 🔰
 
-https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US
+These courses form your **core cybersecurity foundation**.
 
-🖥️ Operating System Basics
+- 🔐 **[Introduction to Cybersecurity – Cisco NetAcad](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US)**
+- 🖥️ **[Operating Systems Basics – Cisco NetAcad](https://www.netacad.com/courses/operating-systems-basics?courseLang=en-US)**
+- 🌐 **[Networking Basics – Cisco NetAcad](https://www.netacad.com/courses/networking-basics?courseLang=en-US)**
 
-https://www.netacad.com/courses/operating-systems-basics?courseLang=en-US
+---
 
-🌐 Networking Basics
-
-https://www.netacad.com/courses/networking-basics?courseLang=en-US
-
-🐧 3. Bash & Shell Scripting
+## 🐧 3. Bash & Shell Scripting
 
 Linux is essential in cybersecurity. Master these early.
 
-Linux Bash Scripting (Beginner)
-https://linuxhandbook.com/courses/bash-beginner/run-shell-script/
+- 🐚 **[Linux Bash Scripting (Beginner) – Linux Handbook](https://linuxhandbook.com/courses/bash-beginner/run-shell-script/)**
+- 🧪 **[Bash Scripting – W3Schools](https://www.w3schools.com/bash/)**
+- 📗 **[Linux Shell Scripting (Free) – Udemy](https://www.udemy.com/course/linux-shell-scripting-free/)**
 
-Bash Scripting (W3Schools)
-https://www.w3schools.com/bash/
+- 💻 **[TryHackMe – Pre-Security Path](https://tryhackme.com/path/outline/presecurity)**
 
-Linux Shell Scripting (Udemy – Free)
-https://www.udemy.com/course/linux-shell-scripting-free/
+---
 
-💻 TryHackMe – Pre-Security Path
+## 🐍 4. Programming for Cybersecurity
 
-https://tryhackme.com/path/outline/presecurity
+Python is a core skill for scripting, automation, and security analysis.
 
-🐍 4. Programming for Cybersecurity
+- 🐍 **[Python Essentials 1 – Cisco NetAcad](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US)**
+- 🎥 **[Python for Cybersecurity – Video](https://youtu.be/4pe1fn3Gus0?si=idHkMPfAp2PX4Gc-)**
+- 📖 **[Python for Cybersecurity – GeeksforGeeks](https://www.geeksforgeeks.org/python/python-for-cybersecurity/)**
 
-Python Essentials 1 (Cisco NetAcad)
+---
 
-https://www.netacad.com/courses/python-essentials-1?courseLang=en-US
+## 🧭 5. Choose Your Specialization
 
-Python for Cybersecurity – Video
+After fundamentals, choose either **Defensive (Blue Team)** or **Offensive (Red Team)**.
 
-https://youtu.be/4pe1fn3Gus0?si=idHkMPfAp2PX4Gc-
+---
 
-Python for Cybersecurity – Article
+### 🔵 Defensive Path — SOC Analyst
 
-https://www.geeksforgeeks.org/python/python-for-cybersecurity/
+- 🛡️ **[Junior Cybersecurity Analyst Career Path – Cisco](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)**
+- 🔍 **[TryHackMe – SOC Level 1](https://tryhackme.com/path/outline/soclevel1)**
 
-🧭 5. Choose Your Specialization
+---
 
-After fundamentals, choose either Defensive (Blue Team) or Offensive (Red Team).
+### 🔴 Offensive Path — Ethical Hacker / Pen Tester
 
-🔵 Defensive Path — SOC Analyst
+- 💥 **[Ethical Hacker – Cisco NetAcad](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)**
+- 🕵️‍♂️ **[TryHackMe – Cybersecurity 101](https://tryhackme.com/path/outline/cybersecurity101)**
 
-🛡️ Cisco: Junior Cybersecurity Analyst Career Path
+---
 
-https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US
-
-🔍 TryHackMe – SOC Level 1 (Hands-On Labs)
-
-https://tryhackme.com/path/outline/soclevel1
-
-🔴 Offensive Path — Ethical Hacker / Pen Tester
-
-💥 Cisco: Ethical Hacker (Free)
-
-https://www.netacad.com/courses/ethical-hacker?courseLang=en-US
-
-🕵️‍♂️ TryHackMe – Cybersecurity 101
-
-https://tryhackme.com/path/outline/cybersecurity101
-
-⭐ Final Notes
+## ⭐ Final Notes
 
 This roadmap ensures you gain:
 
-✔ Fundamentals of Cybersecurity
+✔ Strong **Cybersecurity Fundamentals**  
+✔ Practical **Linux & Python Skills**  
+✔ Real **Hands-on Experience** via TryHackMe  
+✔ A clear career path toward **SOC Analyst** or **Ethical Hacker**
 
-✔ Practical Linux & Python Skills
-
-✔ Real Hands-on Experience via TryHackMe
-
-✔ A clear path to SOC Analyst or Ethical Hacker roles
-
-Feel free to ⭐ star this repository, share with juniors, and contribute!
+📌 Feel free to ⭐ **star this repository**, share it with juniors, and contribute!
