@@ -6,7 +6,7 @@
 
 **Figure: 6 Months Cybersecurity Roadmap**
 
-Welcome to the Cybersecurity Roadmap a complete, beginner-friendly pathway designed to help students and aspiring cybersecurity professionals move from zero knowledge to SOC Analyst or Ethical Hacker level using free resources only.
+Welcome to the Cybersecurity Roadmap a complete, beginner-friendly pathway designed to help students and aspiring cybersecurity professionals move from zero knowledge to SOC Analyst or Ethical Hacker level using free resources and minimal cost rooms only.
 This roadmap is specially curated to ensure clarity, structure, real-world relevance, and hands-on practice.
 
 🎯 Who This Roadmap Is For
