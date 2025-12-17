@@ -1,7 +1,7 @@
 # Cybersecurity_Roadmap
 🛡️ Cybersecurity Roadmap (Beginner → Junior Analyst / Ethical Hacker)
 
-![6 Months Cybersecurity Roadmap](roadmap.png)
+![6 Months Cybersecurity Roadmap](roadmap2.png)
 
 
 **Figure: 6 Months Cybersecurity Roadmap**
