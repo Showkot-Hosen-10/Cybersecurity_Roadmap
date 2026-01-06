@@ -31,8 +31,6 @@ This section focuses on **IoT security**, **embedded firmware**, and the **netwo
 
 1. [Dumping Router Firmware](https://tryhackme.com/room/rfirmware)-Practical lab on acquiring router firmware, unpacking images, and analysing the filesystem as a foundation for embedded and IoT exploitation work. [web:18]
 
-2. [rFirmware](https://tryhackme.com/room/rfirmware) -Focuses on automated and semi-automated firmware analysis using frameworks such as the Firmware Analysis Toolkit and Firmadyne to emulate and inspect router images. [web:18]
-
 3. [Intro to IoT Pentesting](https://tryhackme.com/room/iotintro) -Later tasks in this room walk through interacting with emulated devices, enumerating exposed services, and identifying weaknesses specific to IoT stacks. [web:13]
 
 ---
