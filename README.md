@@ -230,13 +230,19 @@ For more questions and detailed answers, see:
 
 ## Central Index (Quick Navigation)
 
-```markdown
 - [IoT THM Rooms](./IoT%20THM%20Rooms.md)
 - [Multimedia and Steganography THM Rooms](./Multimedia%20and%20Steganography%20THM%20Rooms.md)
 - [Networking and Wireless Communication THM Rooms](./Networking%20and%20Wireless%20Communication%20THM%20Rooms.md)
 - [Reverse Engineering and Malware Analysis Rooms (THM)](./Reverse_Engineering_and_Malware_Analysis_Rooms_THM.md)
 - [THM Ai-ML Related Rooms](./THM%20Ai-ML%20Related%20Rooms.md)
 - [FAQ – Frequently Asked Questions](./FAQ-Frequently%20Asked%20Questions.md)
-verse_Engineering_and_Malware%20THM%20Rooms.md)
-- [AI & ML Security THM Rooms](./THM%20Ai-ML%20Related%20THM%20Rooms%20links.md)
-```
+
+---
+
+## Author
+
+**Name:** Showkot Hosen  
+**Institution:** Chittagong University of Engineering & Technology (CUET)  
+**Department:** Electronics and Telecommunication Engineering (ETE), CUET  
+**Affiliation:** Student and enthusiast in ML‑based cybersecurity research | Cisco Ethical Hacker | TryHackMe AoC 2025 & Presecurity Path | ML Models for Cybersecurity
+
