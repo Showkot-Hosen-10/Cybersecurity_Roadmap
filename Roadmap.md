@@ -75,6 +75,7 @@ After fundamentals, choose either **Defensive (Blue Team)** or **Offensive (Red 
 ### 🔴 Offensive Path — Ethical Hacker / Pen Tester
 
 - 💥 **[Ethical Hacker – Cisco NetAcad](https://www.netacad.com/courses/ethical-hacker?courseLang=en-US)**
+- 💢 **[Jr Penetration Tester Path](https://tryhackme.com/paths)**
 
 ---
 
