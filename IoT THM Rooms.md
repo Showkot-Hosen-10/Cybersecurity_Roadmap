@@ -35,14 +35,3 @@ This section focuses on **IoT security**, **embedded firmware**, and the **netwo
   IoT-themed challenge day focused on analysing and attacking a drone / IoT-style system, combining basic networking, embedded thinking, and scenario-based problem   solving.
 
 ---
-
-## YARA-focused Rooms (TryHackMe)
-
-1. [Yara](https://tryhackme.com/room/yara)  
-   Core room teaching YARA syntax, rule structure (meta, strings, condition), and usage for malware/threat hunting. *(Premium room)*. [web:24]
-
-2. [Threat Hunting With YARA](https://tryhackme.com/room/threathuntingwithyara)  
-   Practical blue-team–oriented lab using YARA for hunting malicious artefacts on Windows, including writing and running custom rules. [web:25]
-
-3. [YARA Rules - YARA mean one! (Advent of Cyber 2025)](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7)  
-   Advent of Cyber 2025 day focused on building a YARA rule to detect malicious images based on specific keywords and code words. [web:28]
