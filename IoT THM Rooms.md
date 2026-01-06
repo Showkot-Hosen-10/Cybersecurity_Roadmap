@@ -13,16 +13,16 @@ This section focuses on **IoT security**, **embedded firmware**, and the **netwo
 
 ## IoT foundations (Easy)
 
-1. **Intro to IoT Pentesting** – [Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)  
+1. [Intro to IoT Pentesting](https://tryhackme.com/room/iotintro)  
    Beginner-friendly overview of Internet of Things architectures, typical components, attack surfaces, and a guided first IoT pentest workflow. [web:13]
 
-2. **Network Services** – [Network Services](https://tryhackme.com/room/networkservices)  
+2. [Network Services](https://tryhackme.com/room/networkservices)  
    Covers core network service concepts and misconfigurations (e.g., FTP, SSH, SMB) that frequently appear in IoT and embedded devices exposed to the internet. [web:20]
 
-3. **Cyber Kill Chain** – [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)  
+3. [Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)  
    Explains the unified kill chain model and shows how compromised endpoints and IoT devices can be leveraged as proxies or pivot points in real attacks. [web:21]
 
-4. **Introduction to Honeypots** – [Introduction To Honeypots](https://tryhackme.com/room/introductiontohoneypots)  
+4. [Introduction To Honeypots](https://tryhackme.com/room/introductiontohoneypots)  
    Introduces honeypots and how deliberately exposed services or IoT-like assets can be used to monitor attacker behaviour and collect telemetry. [web:16]
 
 ---
