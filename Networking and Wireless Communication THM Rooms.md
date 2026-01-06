@@ -30,7 +30,7 @@
 10. [h4cked](https://tryhackme.com/room/h4cked)  
     PCAP-focused room where you analyse captured traffic to reconstruct an attack and understand how the network was compromised.
 
-11. [Carnage](https://tryhackme.com/room/carnage)  
+11. [Carnage](https://tryhackme.com/room/c2carnage)  
     Intermediate packet analysis lab digging into malicious traffic patterns and incident reconstruction from PCAP files.
 
 12. [CCT2019](https://tryhackme.com/room/cct2019)  
