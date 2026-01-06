@@ -31,6 +31,8 @@ This section focuses on **IoT security**, **embedded firmware**, and the **netwo
 
 1. [Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
    Practical lab on acquiring router firmware, unpacking images, and analysing the filesystem as a foundation for embedded and IoT exploitation work. [web:18]
+2. [ICS/Modbus - Claus for Concern](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4)
+  IoT-themed challenge day focused on analysing and attacking a drone / IoT-style system, combining basic networking, embedded thinking, and scenario-based problem   solving.
 
 ---
 
