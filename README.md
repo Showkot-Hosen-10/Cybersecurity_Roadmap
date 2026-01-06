@@ -35,7 +35,8 @@ The roadmap is divided into the following stages:
    - Networking & Wireless  
    - Reverse Engineering & Malware Analysis  
    - AI/ML Security  
-6. **FAQ – Frequently Asked Questions**
+   - FAQ  
+6. **FAQ – Frequently Asked Questions (Overview)**
 
 All links are intended to be **clickable** and oriented around **free or low‑cost** content wherever possible.
 
@@ -91,8 +92,8 @@ Recommended focus:
 
 Optional but useful:
 
-- Basic **JavaScript** for web security
-- Basic **Bash** scripting for automation on Linux
+- Basic **JavaScript** for web security  
+- Basic **Bash** scripting for automation on Linux  
 
 ---
 
@@ -116,24 +117,22 @@ Use these rooms and paths to build muscle memory and get used to real tools:
 
 ## 5. Thematic TryHackMe Room Collections
 
-These sections are meant to be **separate `.md` files** in your repo, each dedicated to a specific area. You can maintain them as curated lists and update them as new rooms appear.
+These sections are implemented as **separate `.md` files** in your repo, each dedicated to a specific area. This central roadmap links to them so you can navigate everything from one place.
 
-### 5.1 IoT THM Rooms (`IoT THM Rooms.md`)
+### 5.1 IoT THM Rooms
 
 Focus: **IoT security, embedded devices, router firmware, and IoT networking**.
 
 - Introductory IoT theory  
 - Networking structures around IoT  
-- Practical labs: router firmware dumping, emulation, basic IoT pentesting
+- Practical labs: router firmware dumping, emulation, basic IoT pentesting  
 
-Example structure inside that file:
+Open the full list here:  
+👉 [IoT THM Rooms](./IoT%20THM%20Rooms.md)
 
-- IoT foundations (Easy)  
-- IoT / embedded practical labs (Medium)  
-- Advanced / IoT‑adjacent (Medium–Hard)  
-- Special events (e.g., Advent of Cyber drone/IoT days)
+---
 
-### 5.2 Multimedia & Steganography Rooms (`Multimedia and Steganography THM Rooms.md`)
+### 5.2 Multimedia & Steganography Rooms
 
 Focus: **images, audio, and file‑based steganography** + multimedia CTFs.
 
@@ -142,14 +141,12 @@ Focus: **images, audio, and file‑based steganography** + multimedia CTFs.
 - Image/audio analysis challenges  
 - Good for building a toolkit: `steghide`, `exiftool`, `zsteg`, `binwalk`, etc.
 
-Rooms listed as:
+Open the full list here:  
+👉 [Multimedia and Steganography THM Rooms](./Multimedia%20and%20Steganography%20THM%20Rooms.md)
 
-- `[CC: Steganography](https://tryhackme.com/room/ccsteganography)`  
-- `[Basic Steganography](https://tryhackme.com/room/basicsteganographyal)`  
-- `[Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)`  
-- plus other stego‑heavy challenges.
+---
 
-### 5.3 Networking & Wireless Communication Rooms (`Networking and Wireless Comm THM Rooms.md`)
+### 5.3 Networking & Wireless Communication Rooms
 
 Focus: from **basic networking labs** to **wireless (Wi‑Fi) hacking** and more advanced traffic analysis.
 
@@ -159,16 +156,14 @@ Typical content:
 - LAN concepts and service enumeration  
 - Network traffic basics and PCAP analysis  
 - Network security essentials and firewall/log analysis  
-- Wi‑Fi Hacking 101 and wireless‑specific attacks
+- Wi‑Fi Hacking 101 and wireless‑specific attacks  
 
-Links are organized into:
+Open the full list here:  
+👉 [Networking and Wireless Communication THM Rooms](./Networking%20and%20Wireless%20Communication%20THM%20Rooms.md)
 
-- **Fundamentals** (Intro Networking, LAN, Nmap, Network Traffic Basics)  
-- **Services & Security** (Network Services, Network Services 2, Network Security Essentials)  
-- **Wireless** (Wifi Hacking 101)  
-- **Advanced traffic and IR labs** (PCAP‑heavy rooms, IR/forensics‑style rooms)
+---
 
-### 5.4 Reverse Engineering & Malware Analysis Rooms (`Reverse_Engineering_and_Malware THM Rooms.md`)
+### 5.4 Reverse Engineering & Malware Analysis Rooms
 
 Focus: **reverse engineering**, **assembly**, and **malware analysis**.
 
@@ -183,37 +178,64 @@ Sub‑sections:
 - Binary exploitation and RE‑adjacent content  
   - PWN101, etc.
 
-Each entry is a clickable link with 1–2 lines of description and (optionally) difficulty tags.
+Open the full list here:  
+👉 [Reverse_Engineering_and_Malware_Analysis_Rooms_THM](./Reverse_Engineering_and_Malware_Analysis_Rooms_THM.md)
 
-### 5.5 AI & ML Security Rooms (`THM Ai-ML Related THM Rooms links.md`)
+---
+
+### 5.5 AI & ML Security Rooms
 
 Focus: **AI/ML concepts and security threats**.
 
-Core room:
+Core example:
 
-1. `[AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)`  
-   - Explains AI vs ML vs DL vs LLMs  
-   - Covers model lifecycle, adversarial ML, threats like prompt injection, data poisoning, model theft, privacy leakage, model drift  
-   - Shows how AI can both **enhance attacks** and **strengthen defence** (SOC, IR, detection, automation)
+- `AI/ML Security Threats` – understanding AI vs ML vs DL vs LLMs, model lifecycle, adversarial ML, prompt injection, data poisoning, model theft, privacy leakage, model drift, and defensive use cases.
 
-Possible structure:
+Open the full list here:  
+👉 [THM Ai-ML Related Rooms](./THM%20Ai-ML%20Related%20Rooms.md)
 
-- Conceptual tasks (what AI/ML are, LLMs, transformers, RLHF)  
-- Threats and attack models  
-- Defensive use cases (log analysis, email detection, threat hunting, regex/rule generation)  
-- “Your Cyber Assistant” practical lab section  
+---
 
-If more AI‑related rooms appear in the future, they can be appended to this file beneath the main one.
+### 5.6 FAQ – Dedicated FAQ File
 
-### 5.6 Central Roadmap File (`Roadmap.md`)
+A separate FAQ file gives quick answers about study order, pacing, tools, and career direction.
 
-This central file (the one you are reading) links out to all the other `.md` lists and can be the **entry point** for your GitHub repository.
+Open it here:  
+👉 [FAQ – Frequently Asked Questions](./FAQ-Frequently%20Asked%20Questions.md)
 
-Suggested structure:
+---
+
+## 6. FAQ – Frequently Asked Questions (Overview)
+
+This section is a brief inline overview. The **full, detailed version** lives in `FAQ-Frequently Asked Questions.md`.
+
+### Q1. I’m a complete beginner. Where do I start?
+
+- Cybersecurity introduction + basic networking and OS  
+- Then Linux basics and introductory hands‑on labs  
+
+### Q2. Do I need programming knowledge to begin?
+
+- Not required to start, but basic **Python** and some scripting will boost you significantly later.  
+
+### Q3. How should I use the themed room lists?
+
+- Treat them as **mini‑specializations**  
+- Start with Easy rooms inside each `.md`, then progress to Medium/Hard  
+
+For more questions and detailed answers, see:  
+👉 [FAQ – Frequently Asked Questions](./FAQ-Frequently%20Asked%20Questions.md)
+
+---
+
+## Central Index (Quick Navigation)
 
 ```markdown
 - [IoT THM Rooms](./IoT%20THM%20Rooms.md)
-- [Multimedia & Steganography THM Rooms](./Multimedia%20and%20Steganography%20THM%20Rooms.md)
-- [Networking & Wireless Communication THM Rooms](./Networking%20and%20Wireless%20Comm%20THM%20Rooms.md)
-- [Reverse Engineering & Malware THM Rooms](./Reverse_Engineering_and_Malware%20THM%20Rooms.md)
+- [Multimedia and Steganography THM Rooms](./Multimedia%20and%20Steganography%20THM%20Rooms.md)
+- [Networking and Wireless Communication THM Rooms](./Networking%20and%20Wireless%20Communication%20THM%20Rooms.md)
+- [Reverse Engineering and Malware Analysis Rooms (THM)](./Reverse_Engineering_and_Malware_Analysis_Rooms_THM.md)
+- [THM Ai-ML Related Rooms](./THM%20Ai-ML%20Related%20Rooms.md)
+- [FAQ – Frequently Asked Questions](./FAQ-Frequently%20Asked%20Questions.md)
+verse_Engineering_and_Malware%20THM%20Rooms.md)
 - [AI & ML Security THM Rooms](./THM%20Ai-ML%20Related%20THM%20Rooms%20links.md)
