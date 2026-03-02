@@ -22,8 +22,9 @@ Start here to build awareness and understand the field.
 These courses form your **core cybersecurity foundation**.
 
 - 🔐 **[Introduction to Cybersecurity – Cisco NetAcad](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US)**
-- 🖥️ **[Operating Systems Basics – Cisco NetAcad](https://www.netacad.com/courses/operating-systems-basics?courseLang=en-US)**
 - 🌐 **[Networking Basics – Cisco NetAcad](https://www.netacad.com/courses/networking-basics?courseLang=en-US)**
+- 🖥️ **[Operating Systems Basics – Cisco NetAcad](https://www.netacad.com/courses/operating-systems-basics?courseLang=en-US)**
+
 
 ---
 
