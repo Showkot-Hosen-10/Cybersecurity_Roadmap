@@ -244,5 +244,5 @@ For more questions and detailed answers, see:
 **Name:** Showkot Hosen  
 **Institution:** Chittagong University of Engineering & Technology (CUET)  
 **Department:** Electronics and Telecommunication Engineering (ETE), CUET  
-**Affiliation:** Student and enthusiast in ML‑based cybersecurity research | Cisco Ethical Hacker | TryHackMe AoC 2025 & Presecurity Path | ML Models for Cybersecurity
+**Affiliation:** Student and enthusiast in ML‑based cybersecurity research | ISC2 CC | Cisco Ethical Hacker | TryHackMe AoC 2025 & Presecurity Path | ML Models for Cybersecurity
 
